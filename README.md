@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 工作内容: 机器学习/推荐系统/数据分析
+- 🌱 最近关注点: GCN/RL
+- ⚡ 兴趣爱好: 游泳/徒步
+
+
 <!--
 **ZermZhang/ZermZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
