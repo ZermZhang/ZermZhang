@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 工作内容: 机器学习/推荐系统/数据分析
-- 👀 最近关注点: tf2/TypeScript/VSCode Plugins
+- 👀 最近关注点: tf2/TypeScript/VSCode Plugins/leetCode
 - ✨ 兴趣爱好: 游泳/徒步
 - 📫 联系方式：zhang371312@126.com
 
