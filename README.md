@@ -5,6 +5,7 @@
 - ✨ 兴趣爱好: 游泳/徒步
 - 📫 联系方式：zhang371312@126.com
 
+![](https://github-readme-stats.vercel.app/api?username=ZermZhang)
 
 <!--
 **ZermZhang/ZermZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
